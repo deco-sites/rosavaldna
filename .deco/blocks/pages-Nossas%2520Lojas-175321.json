@@ -1,0 +1,51 @@
+{
+  "name": "Nossas Lojas",
+  "path": "/nossas-lojas",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Content/InstitucionalContent.tsx",
+      "title": "Nossas Lojas",
+      "sections": [
+        {
+          "__resolveType": "site/sections/Content/GridLojas.tsx",
+          "lojas": [
+            {
+              "image": "https://data.decoassets.com/dnarosaval/356ef719-de0f-41a6-9472-ba11cfae4fe7/image-(36).png",
+              "content": "<p>shopping metrópole</p><p>Fone: (11) 4122-1960<br>e-mail: metropole@rosavalverde.com.br<br><strong>Praça Samuel Sabatini, 200, Loja 238</strong><br><strong>Bairro Baeta Neves</strong><br><strong>São Bernardo do Campo – SP | CEP: 09750-902</strong></p>"
+            },
+            {
+              "image": "https://data.decoassets.com/dnarosaval/4104eec0-424a-4675-a44e-c83f06d99d38/image-(39).png",
+              "content": "<p>shopping metrópole</p><p>Fone: (11) 4122-1960<br>e-mail: metropole@rosavalverde.com.br<br><strong>Praça Samuel Sabatini, 200, Loja 238</strong><br><strong>Bairro Baeta Neves</strong><br><strong>São Bernardo do Campo – SP | CEP: 09750-902</strong></p>"
+            },
+            {
+              "image": "https://data.decoassets.com/dnarosaval/bc49c90b-180f-4fe6-a2f4-e2332e2e0b68/image-(38).png",
+              "content": "<p>shopping metrópole</p><p>Fone: (11) 4122-1960<br>e-mail: metropole@rosavalverde.com.br<br><strong>Praça Samuel Sabatini, 200, Loja 238</strong><br><strong>Bairro Baeta Neves</strong><br><strong>São Bernardo do Campo – SP | CEP: 09750-902</strong></p>"
+            },
+            {
+              "image": "https://data.decoassets.com/dnarosaval/356ef719-de0f-41a6-9472-ba11cfae4fe7/image-(36).png",
+              "content": "<p>shopping metrópole</p><p>Fone: (11) 4122-1960<br>e-mail: metropole@rosavalverde.com.br<br><strong>Praça Samuel Sabatini, 200, Loja 238</strong><br><strong>Bairro Baeta Neves</strong><br><strong>São Bernardo do Campo – SP | CEP: 09750-902</strong></p>"
+            },
+            {
+              "image": "https://data.decoassets.com/dnarosaval/bc49c90b-180f-4fe6-a2f4-e2332e2e0b68/image-(38).png",
+              "content": "<p>shopping metrópole</p><p>Fone: (11) 4122-1960<br>e-mail: metropole@rosavalverde.com.br<br><strong>Praça Samuel Sabatini, 200, Loja 238</strong><br><strong>Bairro Baeta Neves</strong><br><strong>São Bernardo do Campo – SP | CEP: 09750-902</strong></p>"
+            },
+            {
+              "image": "https://data.decoassets.com/dnarosaval/4104eec0-424a-4675-a44e-c83f06d99d38/image-(39).png",
+              "content": "<p>shopping metrópole</p><p>Fone: (11) 4122-1960<br>e-mail: metropole@rosavalverde.com.br<br><strong>Praça Samuel Sabatini, 200, Loja 238</strong><br><strong>Bairro Baeta Neves</strong><br><strong>São Bernardo do Campo – SP | CEP: 09750-902</strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

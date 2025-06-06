@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+  "label": "OK",
+  "placeholder": "digite seu email",
+  "empty": {
+    "title": "Inscreva-se em nossa newsletter",
+    "description": "saiba primeiro de todas as nossas novidades e promoções"
+  },
+  "success": {
+    "title": "Obrigado por se inscrever",
+    "description": "Agora você receberá as melhores promoções e novidades"
+  },
+  "failed": {
+    "title": "Oops!. Algo deu errado!",
+    "description": "Por favor tente novamente, se persistir o problema entre em contato conosco."
+  },
+  "status": "success",
+  "classe": "md:hidden"
+}

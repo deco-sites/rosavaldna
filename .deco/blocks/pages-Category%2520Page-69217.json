@@ -1,0 +1,71 @@
+{
+  "name": "Category Page",
+  "path": "/*",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "price:desc",
+          "fuzzy": "automatic",
+          "selectedFacets": [],
+          "count": 12
+        }
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+        "sort": "price:desc",
+        "fuzzy": "automatic",
+        "selectedFacets": [],
+        "count": 12
+      },
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 4
+        },
+        "variant": "aside",
+        "pagination": "show-more"
+      },
+      "startingPage": 1,
+      "sections": [
+        {
+          "__resolveType": "site/sections/Category/CategoryText.tsx",
+          "banners": [
+            {
+              "matcher": "/*",
+              "content": "<p>No dia a dia, festa, comemorações, trabalho, em todos os lugares. Os brincos fazem parte do visual de qualquer mulher, impossível ficar sem. Brincos de argolas, gota, ear cuff, maxi brincos, cravejados e banhados, aqui na Rosa Valverde, você encontra todas as tendências em semijoias e brincos clássicos. Dê uma olhada em nossa loja virtual e adquira aquele par de brincos que você sempre sonhou e por um preço que cabe no seu bolso!</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Category/CategorySEO.tsx",
+      "banners": [
+        {
+          "matcher": "/brincos",
+          "content": "<p>A Fabiana Haverroth desenvolve acessórios sempre com foco nas tendências mundiais, oferecendo peças com design sofisticado, único e exclusivo, além de produção própria e nacional. São mais de 1.200 modelos, de bijuterias à semijoias, com banho ouro 18k, níquel free hipoalergênicos e garantia de qualidade comprovada! Entre e confira nossas condições especiais de envio e pagamento.</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

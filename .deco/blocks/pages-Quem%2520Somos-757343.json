@@ -1,0 +1,71 @@
+{
+  "name": "Quem Somos",
+  "path": "/quem-somos",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Content/InstitucionalContent.tsx",
+      "title": "Quem Somos",
+      "sections": [
+        {
+          "__resolveType": "website/sections/Rendering/Lazy.tsx",
+          "section": {
+            "__resolveType": "site/sections/Images/ShoppableBanner.tsx",
+            "image": {
+              "mobile": "https://data.decoassets.com/dnarosaval/2c557080-03b7-45ce-acf5-5a64347fc6c3/image.svg",
+              "desktop": "https://data.decoassets.com/dnarosaval/2c557080-03b7-45ce-acf5-5a64347fc6c3/image.svg",
+              "altText": "quem somos"
+            },
+            "pins": [],
+            "direction": "right",
+            "text": {
+              "layout": {
+                "position": "text-left"
+              },
+              "content": "<p><span style=\"color: oklch(0 0 0); font-size: medium\">Desde 1989, com um conceito inovador de lojas e produtos, atende às mais exigentes consumidoras. Com peças exclusivas, desenvolvidas por designers, oferecemos produtos com pedras naturais, em banhos variados, sempre seguindo as tendências da moda.</span></p><p></p><p><span style=\"color: oklch(0 0 0); font-size: medium\">Com sua rede de franquias, a ROSA VALVERDE atinge mercados no Estado de São Paulo e Distrito Federal. Está presente nos mais renomados shoppings dessas regiões.</span></p><p></p><p><span style=\"color: oklch(0 0 0); font-size: medium\">Desde a produção das peças, até a escolha dos pontos de venda, bem como a seleção da equipe, nossa motivação é a paixão pelo negócio.</span></p><p></p><p><span style=\"color: oklch(0 0 0); font-size: medium\">Temos uma trajetória que expressa o comprometimento da empresa na satisfação de nossos clientes.</span></p>"
+            },
+            "link": {
+              "layout": {
+                "position": "justify-start"
+              },
+              "text": "veja nossas lojas",
+              "href": "#"
+            },
+            "title": {
+              "content": "A ROSA VALVERDE é uma das maiores empresas de semijóias do Brasil.",
+              "layout": {
+                "position": "justify-start"
+              }
+            }
+          }
+        },
+        {
+          "__resolveType": "site/sections/Content/GridTexts.tsx",
+          "texts": [
+            {
+              "title": "Missão",
+              "content": "<p>Oferecer aos nossos clientes produtos de qualidade com design exclusivo que valorizam o estilo de cada mulher.<br></p>"
+            },
+            {
+              "title": "Visão",
+              "content": "<p>Construir relações de respeito e confiança com nossos clientes e colaboradores através da expansão da marca por todo o território nacional, empregando alto padrão de qualidade nos produtos e serviços.<br><br></p>"
+            },
+            {
+              "title": "Valores",
+              "content": "<p>Qualidade, inovação, comprometimento, respeito<br></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

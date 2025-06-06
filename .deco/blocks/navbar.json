@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "url": "/lancamentos",
+      "name": "LANÇAMENTOS",
+      "children": [],
+      "image": null
+    },
+    {
+      "children": [
+        {
+          "image": [],
+          "children": [],
+          "name": "Aparador",
+          "url": "/aneis/aparador"
+        },
+        {
+          "children": [],
+          "image": null,
+          "url": "/aneis/solitario",
+          "name": "SOLITÁRIO"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "PEDRAS NATURAIS",
+          "url": "/aneis/pedras-naturais"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "CORAÇÃO",
+          "url": "/aneis/coracao"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "GOTA",
+          "url": "/aneis/gota"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "FALANGE",
+          "url": "/aneis/falange"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "PEDRA",
+          "url": "/aneis/pedra"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "CORAÇÃO",
+          "url": "/aneis/coracao"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "INFINITO",
+          "url": "/aneis/coracao"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "PERÓLAS",
+          "url": "/aneis/coracao"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "INFANTIL",
+          "url": "/aneis/infantil"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "LISOS",
+          "url": "/aneis/lisos"
+        },
+        {
+          "children": [],
+          "image": null,
+          "name": "LISTA COMPLETA",
+          "url": "/todos-os-produtos"
+        }
+      ],
+      "name": "ANÉIS",
+      "url": "/aneis",
+      "@type": "SiteNavigationElement",
+      "image": [
+        {
+          "video": null,
+          "image": null,
+          "url": "https://data.decoassets.com/dnarosaval/be54b23b-ef01-4bdf-bdd6-9c6515cfffee/image-(14).png"
+        }
+      ]
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "BRINCOS",
+      "url": "/brincos"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "COLARES",
+      "url": "/colares"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "CONJUNTOS",
+      "url": "/conjuntos"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "PULSEIRAS",
+      "url": "/pulseiras"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "COLEÇÕES",
+      "url": "/colecoes"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "PRESENTES",
+      "url": "/presentes"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "<i>ATELIER</i>",
+      "url": "/atelier"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "INFANTIL",
+      "url": "/infantil"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "VER TUDO",
+      "url": "/todos-os-produtos"
+    },
+    {
+      "children": [],
+      "image": null,
+      "name": "<b>SALE</b>",
+      "url": "/sale"
+    }
+  ],
+  "__resolveType": "commerce/loaders/navbar.ts"
+}

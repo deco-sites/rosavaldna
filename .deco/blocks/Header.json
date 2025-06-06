@@ -1,0 +1,27 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "searchbar": {
+    "placeholder": "pesquisar",
+    "loader": {
+      "__resolveType": "resolved",
+      "data": {
+        "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts",
+        "count": 4
+      }
+    }
+  },
+  "alerts": [
+    "<p>PAGUE EM ATÉ 6X SEM JUROS</p>",
+    "<p>pague em até 6x sem juros</p>"
+  ],
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/28495515-c369-4158-b450-cbc98934e9a0/rvv-logo-rosavalverde.png",
+    "alt": "Rosa Valverde",
+    "width": 219,
+    "height": 21
+  },
+  "loading": "eager",
+  "navItems": {
+    "__resolveType": "navbar"
+  }
+}

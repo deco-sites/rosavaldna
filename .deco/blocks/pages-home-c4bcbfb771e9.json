@@ -1,0 +1,234 @@
+{
+  "name": "Home Page",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "images": [
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/b2b463fd-e61a-461a-803a-aff44b944248/principaldesktop.png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/d4aa883d-b3d2-4056-be3e-31be287a3e31/image.png",
+          "alt": "New in",
+          "action": {
+            "title": "new in",
+            "subTitle": "descubra os últimos lançamentos",
+            "href": "#",
+            "label": "compre agora"
+          }
+        },
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/b2b463fd-e61a-461a-803a-aff44b944248/principaldesktop.png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/d4aa883d-b3d2-4056-be3e-31be287a3e31/image.png",
+          "alt": "New in",
+          "action": {
+            "title": "new in",
+            "subTitle": "descubra os últimos lançamentos",
+            "href": "#",
+            "label": "compre agora"
+          }
+        }
+      ],
+      "preload": true,
+      "interval": 10
+    },
+    {
+      "__resolveType": "site/sections/componentsDNA/Benefits.tsx",
+      "benefits": [
+        {
+          "text": "Pague em até 6x sem juros",
+          "icon": "https://data.decoassets.com/dnarosaval/b19d9bac-32d2-4af7-b814-ede53a7a4839/Vector-(4).svg"
+        },
+        {
+          "icon": "https://data.decoassets.com/dnarosaval/85ab072f-baf8-42cb-9278-35692e9f6b82/Group-2695.svg",
+          "text": "Frete Grátis SP - Acima de R$ 299"
+        },
+        {
+          "text": "Ganhe 5% off via pix",
+          "icon": "https://data.decoassets.com/dnarosaval/d9dea83c-9dfc-46f6-812b-c0518ef27b4e/Group-2696.svg"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Images/CarouselContainer.tsx",
+      "images": [
+        {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/8c1c502c-8058-4fda-8c7f-474e45f0c52c/image.png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/cdf091bf-0df2-4c18-806c-fb94a11f5688/image.png",
+          "alt": "Cherry",
+          "action": {
+            "href": "#",
+            "title": "."
+          }
+        },
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/a09c8df5-1a49-477e-9d11-4ba1d4f3cc61/image-(3).png",
+          "mobile": "https://data.decoassets.com/dnarosaval/a09c8df5-1a49-477e-9d11-4ba1d4f3cc61/image-(3).png",
+          "alt": "Bold Gold",
+          "action": {
+            "href": "#"
+          }
+        },
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/e07131f8-6fd0-4210-b6cd-1be13e854550/image-(4).png",
+          "mobile": "https://data.decoassets.com/dnarosaval/e07131f8-6fd0-4210-b6cd-1be13e854550/image-(4).png",
+          "alt": "Basics",
+          "action": {
+            "href": "#"
+          }
+        }
+      ],
+      "preload": false
+    },
+    {
+      "__resolveType": "site/sections/Content/GridCategories.tsx",
+      "title": "<p style=\"text-align: center\">COMPRE POR BANHO</p>",
+      "subtitle": "<p style=\"text-align: center\">escolha sua<strong> </strong>semijoia pelo metal que mais combina com o seu estilo</p>",
+      "categories": [
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/389d1d5d-2b43-4b3c-8fbf-30a3665a03e9/image-(2).png",
+          "link": "#",
+          "label": "Dourado"
+        },
+        {
+          "image": "https://data.decoassets.com/dnarosaval/da9451ac-0ace-4a46-839f-451b4743338c/image-(5).png",
+          "link": "#",
+          "label": "Prateado"
+        },
+        {
+          "image": "https://data.decoassets.com/dnarosaval/19dc1b72-adbe-4b78-bf39-304e8f8c198c/image-(6).png",
+          "link": "#",
+          "label": "Rosê"
+        },
+        {
+          "image": "https://data.decoassets.com/dnarosaval/87646e2d-61e9-47bf-a223-ed6c8e7806a6/image-(7).png",
+          "link": "#",
+          "label": "Mix de Banhos"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryGrid.tsx",
+      "items": [
+        {
+          "label": "ANÉIS",
+          "href": "#",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/315d4a1a-ee20-4b72-bb75-5ead0326a10a/image-(1).png"
+        },
+        {
+          "label": "BRINCOS",
+          "href": "#",
+          "image": "https://data.decoassets.com/dnarosaval/07ece874-452c-4b2d-8bc5-afdbc35930a0/image-(8).png"
+        },
+        {
+          "label": "COLARES",
+          "href": "#",
+          "image": "https://data.decoassets.com/dnarosaval/bb11c79b-701e-44c5-9341-40b496c2b208/image-(9).png"
+        },
+        {
+          "label": "CONJUNTOS",
+          "href": "#",
+          "image": "https://data.decoassets.com/dnarosaval/3d82e8c2-cf76-46a5-8c46-52fb2a05fde9/image-(10).png"
+        },
+        {
+          "image": "https://data.decoassets.com/dnarosaval/f23ce7cb-fc47-45af-b0f0-429abd0ff9ba/image-(12).png",
+          "href": "#",
+          "label": "INFANTIL"
+        },
+        {
+          "image": "https://data.decoassets.com/dnarosaval/bf761ec6-ef0e-4fd0-b9bd-d24f7c3c143a/image-(11).png",
+          "href": "#",
+          "label": "PULSEIRAS"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/CollectionCard.tsx",
+      "title": "PEDRAS NATURAIS",
+      "description": "<p><span>Na Rosa Valverde, o uso de pedras naturais não é apenas um detalhe, mas uma parte fundamental da nossa identidade. <br><br>Suas características únicas vão muito além de sua beleza visual. São pedras que carregam simbolismos profundos que encantam e inspiram, refletindo a essência de quem as usa. <br><br>Irregulares, elas possuem delicadas imperfeições que conferem às peças um caráter único, como uma celebração da autenticidade, onde cada detalhe é valorizado e cada imperfeição é uma marca de sua exclusividade. <br><br>Explore nossa coleção e aprecie a combinação perfeita de arte e natureza que só a Rosa Valverde pode oferecer.</span></p>",
+      "cta": {
+        "link": "#",
+        "label": "CLIQUE E CONHEÇA A COLEÇÃO"
+      },
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/a22039b2-1850-4036-9bf7-b0f3eceba589/image-(3).png"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "title": "SALE",
+      "products": {
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+        "props": {
+          "sort": "discount:desc",
+          "collection": "211",
+          "count": 16,
+          "hideUnavailableItems": true
+        }
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/LojasCarousel.tsx",
+      "title": "nossas lojas",
+      "interval": 8,
+      "images": [
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/58861db9-126f-4ed1-93b4-919b6b263e68/loja-rv.png",
+          "mobile": "https://data.decoassets.com/dnarosaval/58861db9-126f-4ed1-93b4-919b6b263e68/loja-rv.png",
+          "alt": "Loja X"
+        },
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/58861db9-126f-4ed1-93b4-919b6b263e68/loja-rv.png",
+          "mobile": "https://data.decoassets.com/dnarosaval/58861db9-126f-4ed1-93b4-919b6b263e68/loja-rv.png",
+          "alt": "Loja Y"
+        },
+        {
+          "desktop": "https://data.decoassets.com/dnarosaval/58861db9-126f-4ed1-93b4-919b6b263e68/loja-rv.png",
+          "mobile": "https://data.decoassets.com/dnarosaval/58861db9-126f-4ed1-93b4-919b6b263e68/loja-rv.png",
+          "alt": "Loja Z"
+        }
+      ],
+      "description": "<p><span>a Rosa Valverde conta com 9 lojas espalhadas por São Paulo capital, ABC Paulista e Alphaville. Em cada uma delas temos uma variedade incrível com mais de 3 mil produtos. Assim como na loja on-line, cada loja física recebe poucas unidades por modelo, o que torna a sua peça ainda mais exclusiva, além de manter nosso estoque sempre renovado e antenado!</span></p>",
+      "action": {
+        "link": "#",
+        "label": "clique e encontre a loja mais próxima"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/InstagramSection.tsx",
+      "title": "<p><span>siga </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://instagram.com/rosavalverde\"><strong><span>@rosavalverde</span></strong><span> </span></a><span>no instagram e fique sempre antenada</span></p>",
+      "posts": [
+        {
+          "link": "#",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/c1deaed9-ece4-4401-abfc-1cce3f03eeb3/image-(4).png"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/07c2c886-f13d-44a6-a330-97cfb6b3c00b/image-(5).png",
+          "link": "#"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/9b9a87d1-3db1-42e2-98b9-bbdf1a9aaf2a/image-(6).png",
+          "link": "#"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/9b9a87d1-3db1-42e2-98b9-bbdf1a9aaf2a/image-(6).png",
+          "link": "#"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/9b9a87d1-3db1-42e2-98b9-bbdf1a9aaf2a/image-(6).png",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Newsletter-Completa"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "path": "/",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

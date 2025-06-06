@@ -1,0 +1,194 @@
+{
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "links": [
+    {
+      "title": "rosa valverde",
+      "children": [
+        {
+          "title": "sobre nós",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "lojas físicas",
+          "href": "/nossas-lojas"
+        },
+        {
+          "title": "atelier",
+          "href": "/atelier"
+        },
+        {
+          "title": "política de privacidade",
+          "href": "/politica-de-privacidade/"
+        },
+        {
+          "title": "seja um franqueado",
+          "href": "#"
+        },
+        {
+          "title": "trabalhe conosco",
+          "href": "#"
+        }
+      ],
+      "href": "#"
+    },
+    {
+      "title": "ajuda",
+      "href": "#",
+      "children": [
+        {
+          "title": "entrega e garantia",
+          "href": "#"
+        },
+        {
+          "title": "pagamento e cashback",
+          "href": "#"
+        },
+        {
+          "title": "entrega",
+          "href": "#"
+        },
+        {
+          "title": "cuidados",
+          "href": "#"
+        },
+        {
+          "title": "mais dúvidas",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "title": "contato",
+      "href": "#",
+      "children": [
+        {
+          "title": "trocas e devoluções",
+          "href": "#"
+        },
+        {
+          "title": "sac",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "alt": "Instagram",
+      "href": "https://www.instagram.com/rosavalverde/",
+      "image": "https://data.decoassets.com/dnarosaval/9e4928e5-4f37-4ed7-a357-ae3f2461f4ab/Group-2660.svg"
+    },
+    {
+      "alt": "facebook",
+      "href": "https://www.facebook.com/rosavalverdeoficial",
+      "image": "https://data.decoassets.com/dnarosaval/dd6fa0ec-206a-4402-80a5-aebd5f22e07d/Group-2659.svg"
+    },
+    {
+      "alt": "pinterest",
+      "href": "#",
+      "image": "https://data.decoassets.com/dnarosaval/06616f0b-0f49-4d8a-8e3f-b6bf11dce306/Group-2711.svg"
+    },
+    {
+      "alt": "youtube",
+      "href": "https://www.youtube.com/channel/UCya5uLLuavq0dPAv8AIk8Gg",
+      "image": "https://data.decoassets.com/dnarosaval/12c3b00d-22cf-4253-9332-33e53c5aa6c2/Group-2661.svg"
+    },
+    {
+      "alt": "whatsapp",
+      "href": "https://api.whatsapp.com/send/?phone=5511945485060&text=Ol%C3%A1%2C+venho+do+site%21+Podem+me+ajudar%3F&type=phone_number&app_absent=0",
+      "image": "https://data.decoassets.com/dnarosaval/219cf7ff-6352-4a7b-8c55-a9a34e78b192/arcticons_whatsapp.svg"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/67dd1a0f-64f9-4595-b447-6952b3ce4068/jcb.svg",
+      "alt": "jcb"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/2004c22f-7ea9-45ad-a494-646ba31c995e/visa.svg",
+      "alt": "visa"
+    },
+    {
+      "image": "https://data.decoassets.com/dnarosaval/5b89a5a7-0951-4a2f-acaa-67acb5f92e1e/mastercard.svg",
+      "alt": "mastercard"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/d53e5e96-6705-4a98-ba8b-983bbf39b885/american-express.svg",
+      "alt": "american express",
+      "href": "#"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/20f5e8b6-bd90-42a7-8855-f59f9cc4dde2/boleto.svg",
+      "alt": "boleto",
+      "href": "#"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/5c1b1c16-2ed9-4310-8596-044f7b72ea20/diners-club.svg",
+      "alt": "dinners"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/c27d655c-1b48-4c3d-8dd0-c4d617854e50/elo.svg",
+      "alt": "elo"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/85200653-f85a-43bc-bb18-aa0bab271dfe/discover.svg",
+      "alt": "discover"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/7075f7d8-837f-44fd-a5b5-323610e21f5e/hipercard.svg",
+      "alt": "hipercard"
+    },
+    {
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dnarosaval/d4130994-0ac3-4718-a89a-f4a407aabf14/aura.svg",
+      "alt": "aura",
+      "href": "#"
+    }
+  ],
+  "policies": [],
+  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f1faab73-e4ff-4037-b7c4-5d02bd0b1209",
+  "trademark": "TM & © 2023 Deco Storefront, Inc.",
+  "extraSection": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Newsletter-Completa"
+      }
+    }
+  ],
+  "section": [
+    {
+      "__resolveType": "Newsletter-Completa"
+    }
+  ],
+  "children": {
+    "section": {}
+  },
+  "newsletterProps": {
+    "links": [],
+    "social": [],
+    "paymentMethods": []
+  },
+  "myProp": {},
+  "sections": [
+    {
+      "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+      "label": "OK",
+      "placeholder": "DIGITE SEU E-MAIL",
+      "empty": {
+        "title": "Inscreva-se em nossa newsletter",
+        "description": "saiba primeiro de todas as nossas novidades e promoções"
+      },
+      "success": {
+        "title": "Obrigado por se inscrever",
+        "description": "Agora você receberá as melhores promoções e novidades"
+      },
+      "failed": {
+        "title": "Oops!. Algo deu errado!",
+        "description": "Por favor tente novamente, se persistir o problema entre em contato conosco."
+      },
+      "status": "success",
+      "classe": "hidden md:block"
+    }
+  ],
+  "sectionExtra": null
+}

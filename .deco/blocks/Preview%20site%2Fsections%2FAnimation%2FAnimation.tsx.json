@@ -1,0 +1,8 @@
+{
+  "__resolveType": "site/sections/Animation/Animation.tsx",
+  "animationType": "fade-in",
+  "duration": 0.3,
+  "children": {
+    "section": {}
+  }
+}
